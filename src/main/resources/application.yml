@@ -2,4 +2,4 @@ spring:
   application:
     name: maintain
 server:
-  port: 8180 
+  port: 8180
